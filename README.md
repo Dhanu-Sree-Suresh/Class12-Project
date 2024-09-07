@@ -10,24 +10,32 @@ On the development of this project, I have designed, tested, and compared six di
 • Fundamental library for scientific computing
 • Provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these array
 • Used for data manipulation, mathematical operations, linear algebra, and statistical analysis
+
 **SciPy:**
 • Builds on NumPy and offers additional functionality for scientific and technical computing
 • Includes modules for optimization, integration, interpolation, signal and image processing, linear algebra, etc.
 • Used for solving complex mathematical problems and conducting scientific experiments
+
 **Keras:**
 • Used for developing and experimenting with deep neural networks
+
 **Pandas:**
 • Provides data structures and functions for working with structured data
 • Suitable for data analysis and cleaning
 • Used for data preprocessing, cleaning, exploration, and transformation
+
 **Seaborn:**
 • Used for data visualization (high-level library)
+
 **Tabulate:**
 • Used for formatting and displaying data in tabular form
+
 **Matplotlib:**
 • Used for data visualization (low-level library)
+
 **Scikit-learn:**
 • Used for building, training, and evaluating machine learning models for various tasks in data science and machine learning
+
 **Gradio:**
 • User-friendly library for creating and sharing machine learning models via web interface
 

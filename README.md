@@ -50,16 +50,20 @@ On the development of this project, I have designed, tested, and compared six di
 
 # Limitations/Future Work
 While the project represents a promising leap forward, several limitations and areas for future improvement should be acknowledged.
+
 **Future Work:**
+
 • Introduction of user-friendly GUI to predict disease probabilities from user-inputted values would greatly enhance accessibility
 • Including data on a broader spectrum of diseases
 • Using more extensive and diverse datasets to train the AI model
+
 **Limitations:**
+
 • Time required for data acquisition and model training
 • Number of people involved in the project, which could potentially benefit from collaboration of a larger, more diverse team
 • Limitations in programming interface
 
-#Bibliography
+# Bibliography
 1. https://numpy.org/
 2. https://scipy.org/
 3. https://keras.io/
